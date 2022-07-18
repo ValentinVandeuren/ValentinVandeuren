@@ -1,4 +1,4 @@
-<h1 align="center">Student Full-Stack Developer.🌟</h1>
+<h1 align="center">Full-Stack Developer.🌟</h1>
 
 <br>
 <h3>👨🏻‍💻About Me</h3>
@@ -6,7 +6,7 @@
 
 <br>
 
-- 👨🏻‍🎓 I’m currently learning Web Full-Stack Development at LaCapsule.
+- 👨🏻‍🎓 I've studied Web Full-Stack Development at LaCapsule.
 
 <br><br>
 
